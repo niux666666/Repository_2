@@ -5,6 +5,7 @@ public class HelloWord {
         System.out.println("HelloWord");
         System.out.println("aaa");
         System.out.println("bbb");
-        System.out.println("ccc");
+        System.out.println("ddd");
+        System.out.println("fff");
     }
 }
